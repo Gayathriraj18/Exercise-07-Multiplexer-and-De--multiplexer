@@ -119,14 +119,28 @@ endmodule
 
 ![M3](https://user-images.githubusercontent.com/94154854/200152226-b78b3b0e-085e-4ae9-9fa2-b4e57043f0b5.png)
 
+![M5](https://user-images.githubusercontent.com/94154854/200152329-66c0c536-e6cb-4250-85a4-0fd4f8ef6e75.png)
+
+# DEMUX :
+
 ![M4](https://user-images.githubusercontent.com/94154854/200152238-b6a79152-2f42-48bd-9670-fb5b7c637bdf.png)
 
 
-### TRUTH TABLE 
+### TRUTH TABLE :
+
+# MUX :
+
+![T1](https://user-images.githubusercontent.com/94154854/200152336-398668c0-0887-46e5-bc82-7109ac86b2f4.png)
+
+# DEMUX :
+
+![T2](https://user-images.githubusercontent.com/94154854/200152343-0da6e2f5-53ca-4ebb-b155-a6484b662050.png)
 
 
 
 
 
 
-### RESULTS 
+### RESULTS :
+
+4x1 Multiplexer and 1x4 Demultiplexer is been implemented and verified using verilog programming and its output are validated successfully.
