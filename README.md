@@ -121,9 +121,11 @@ endmodule
 
 ![M5](https://user-images.githubusercontent.com/94154854/200152329-66c0c536-e6cb-4250-85a4-0fd4f8ef6e75.png)
 
+![M4](https://user-images.githubusercontent.com/94154854/200152238-b6a79152-2f42-48bd-9670-fb5b7c637bdf.png)
+
 # DEMUX :
 
-![M4](https://user-images.githubusercontent.com/94154854/200152238-b6a79152-2f42-48bd-9670-fb5b7c637bdf.png)
+![image](https://user-images.githubusercontent.com/94154854/200152409-7b69c955-1586-49de-b8d0-228cbde27df1.png)
 
 
 ### TRUTH TABLE :
